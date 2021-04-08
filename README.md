@@ -1,8 +1,8 @@
-![Dash1](Dash1.PNG)
+![Dash1](Dash1.png)
 
 ___
 
-# Overview and Origin
+# Overview and Origin!
 
 ## > What is Dash?
 
